@@ -1,0 +1,6 @@
+Rules for writting variables
+== Variables are case sensitive.
+== 1st character is alphabet or '_'.
+== no other value than '_'.
+== Variables values can be updated.
+== Meaningful variables names.

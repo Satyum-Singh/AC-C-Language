@@ -1,0 +1,5 @@
+== Constants values don't change(fixed).
+== Types:
+    1 == Integer Constants.
+    2 == Real Constants.
+    3 == Character Constants.
