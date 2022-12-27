@@ -1,0 +1,9 @@
+INPUT IN C Language 
+
+scanf("%d",&age);
+
+%d == specifies int value.
+%f == specifies real values.
+%c == specifies character values.
+& == address of variable.
+age == name of variable.
